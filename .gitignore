@@ -1,0 +1,21 @@
+# sbt outputs
+**/target/
+
+# idea/eclipse
+.idea
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings
+.bsp
+
+#metals
+.bloop
+.metals
+.ammonite
+**/project/metals.sbt
+.vimspector.json
+.vscode
+
